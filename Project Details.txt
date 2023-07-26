@@ -1,0 +1,50 @@
+PROJECT DETAILS : 
+
+
+INTRODUCTION : 
+
+The project aims to develop an integrated Human Resource Management System (HRMS) that combines Employee Information System (EIS) and HRMS modules. The system will provide a comprehensive solution for managing employee profiles, attendance, payroll, and leave management. By consolidating all relevant data into a single system, the project seeks to streamline HR processes, improve efficiency, and enhance decision-making within the organization.
+
+PROJECT GOALS : 
+
+1)Centralize Employee Data: The project aims to centralize employee information, including profiles, attendance records, payroll details, and leave balances, into a unified database.
+
+2)Automation of HR Processes: The HRMS will automate various HR processes such as attendance tracking, payroll calculation, and leave management, reducing manual efforts and minimizing errors.
+
+3)Real-time Reporting and Analysis: The system will generate real-time reports and analytics on employee data, enabling HR managers to make informed decisions and identify trends or issues within the workforce.
+
+4)Enhanced Employee Experience: The HRMS will provide employees with self-service capabilities, allowing them to view their profiles, attendance, payroll information, and leave balances conveniently.
+
+5)Data Security and Compliance: The project will prioritize data security and compliance with relevant regulations, implementing appropriate access controls and encryption techniques to protect sensitive employee information.
+
+
+METHODOLOGY : 
+
+
+The project will follow a systematic approach, including the following steps:
+
+1.Requirement Gathering: Conducting detailed discussions with stakeholders to understand their needs, gather requirements, and define project scope.
+2.System Design: Designing the database schema, creating entity-relationship diagrams, and defining relationships between tables to establish data integrity and consistency.
+
+3.Development: Implementing the HRMS system using a suitable programming language and database management system, incorporating necessary features and functionalities.
+
+4.Testing and Quality Assurance: Conducting comprehensive testing to ensure the system functions as expected, identifying and fixing any bugs or issues.
+
+5.Deployment: Deploying the HRMS system on the organization's infrastructure, ensuring it is accessible to authorized users and compatible with their devices.
+
+6.User Training and Documentation: Providing training to HR personnel and employees on using the system effectively, along with documenting user manuals and guidelines.
+
+7.Maintenance and Support: Providing ongoing maintenance, addressing user queries or issues, and implementing necessary updates or enhancements as required.
+
+
+
+TIMELINE : 
+
+The timeline to submit this project is 14th of July , 2023.
+The Project was discussed on 23rd of June where the outline of project was discussed , and since then the work was in continuation till 13th of July.
+
+Project is submitted on 14th of July , 2023.
+
+
+Now , the contents of project will be discussed .
+

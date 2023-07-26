@@ -1,0 +1,141 @@
+DATABASE TABLES AND THEIR OUTLINES : 
+
+
+TABLE PARAMETERS : 
+
+
+EIS Module:
+
+1.Profile :
+
+   - Employee ID (Primary key)
+   - Name
+   - First Name
+   - Date of Birth
+   - Date of Joining
+   - Qualification
+   - Address
+   - Hometown
+   - PAN (Permanent Account Number)
+   - Aadhar (Unique Identification Number)
+   - Date of Leaving
+   - Employee Status (Active, Retired)
+   - Bank Account
+   - Basic Salary
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+2.Attendance:
+
+   - Employee ID
+   - Date
+   - Shift (A, B, C)
+   - In Punch Time
+   - Out Punch Time
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+3.Payroll :
+
+   - Employee ID
+   - Salary Month
+   - Basic Salary (from Employee Master)
+   - DA Percentage (% of Basic)
+   - Allowances Percentage (% of Basic)
+   - Savings 80C
+   - Total Income
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+4.Leaves:
+
+   - Employee ID
+   - Year
+   - Casual Leave Balance (CL)
+   - Earned Leave Balance (EL)
+   - Medical Leave Balance (ML)
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+HRMS Module:
+
+1.Profile Entry Screen (Employee Master) :
+
+   - Employee ID (Primary key)
+   - Name
+   - First Name
+   - Date of Birth
+   - Date of Joining
+   - Qualification
+   - Address
+   - Hometown
+   - PAN (Permanent Account Number)
+   - Aadhar (Unique Identification Number)
+   - Date of Leaving
+   - Employee Status (Active, Retired)
+   - Bank Account
+   - Basic Salary
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+2.Attendance :
+
+   - Employee ID
+   - Date
+   - Shift (A, B, C)
+   - In Punch Time
+   - Out Punch Time
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+3.Payroll :
+
+   - Employee ID
+   - Salary Month
+   - Basic Salary (from Employee Master)
+   - DA Percentage (% of Basic)
+   - Allowances Percentage (% of Basic)
+   - Savings 80C
+   - Total Income
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+4.Leave Balances :
+
+   - Employee ID
+   - Year
+   - Casual Leave (CL)
+   - Earned Leave (EL)
+   - Medical Leave (ML)
+   - Created By
+   - Created Date
+   - Updated By
+   - Updated Date
+
+5.Leave Application :
+
+   - Employee ID
+   - Leave Type (CL, ML, EL, etc.)
+   - From Date
+   - To Date
+   - Absence Days
+   - Leaves Consumed
+   - Status (Approved/Rejected)
+   - Approved By
+   - Approval Date
+   - Rejected By
+   - Rejection Date

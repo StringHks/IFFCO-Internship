@@ -1,0 +1,52 @@
+RELATIONSHIP :
+
+To establish the relationships between the tables and determine the primary key and foreign key relationships, we need to consider the following:
+
+1.Profile Table:
+
+   - Primary Key: Employee ID
+
+2.Attendance Table:
+
+   - Primary Key: (Employee ID, Date)
+   - Foreign Key: Employee ID references Profile Table (Employee ID)
+
+3.Payroll Table:
+
+   - Primary Key: (Employee ID, Salary Month)
+   - Foreign Key: Employee ID references Profile Table (Employee ID)
+
+4.Leaves Table:
+
+   - Primary Key: (Employee ID, Year)
+   - Foreign Key: Employee ID references Profile Table (Employee ID)
+
+Next, let's consider the HRMS module:
+
+1.Profile Entry Screen (Employee Master):
+
+   - Primary Key: Employee ID
+
+2.Attendance Table:
+
+   - Primary Key: (Employee ID, Date)
+   - Foreign Key: Employee ID references Profile Entry Screen (Employee ID)
+
+3.Payroll Table:
+
+   - Primary Key: (Employee ID, Salary Month)
+   - Foreign Key: Employee ID references Profile Entry Screen (Employee ID)
+
+4.Leave Balances Table:
+
+   - Primary Key: (Employee ID, Year)
+   - Foreign Key: Employee ID references Profile Entry Screen (Employee ID)
+
+5.Leave Application Table:
+
+   - Primary Key: (Employee ID, Leave Type, From Date)
+   - Foreign Key: Employee ID references Profile Entry Screen (Employee ID)
+
+
+
+The primary keys uniquely identify each record within the table, and foreign keys establish the relationships between tables by referring to the primary key of another table.
